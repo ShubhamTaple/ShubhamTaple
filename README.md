@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Shubham Taple
 
-<!--
-**ShubhamTaple/ShubhamTaple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 A passionate developer interested in web apps, DSA, and OOPS.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- 💻 Languages: Java
+- 🔧 Tools: Git, VS Code, MySQL, Node.js
+- 🌐 Web: HTML, CSS, React.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamTaple&show_icons=true&theme=radical)
+
+## 📫 Reach Me
+- 📧 Email: shubham.s.taple@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shubham-taple-021b73320/)
