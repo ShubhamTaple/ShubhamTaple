@@ -3,7 +3,7 @@
 A passionate Learner.
 
 ##  Tech Stack
--  Languages: Java, C#, Python
+-  Languages: Java, Python, C#, C
 -  Tools: Git, VS Code, MySQL, Node.js, SSMS, Visual Studio, Docker
 -  Web: HTML, CSS, React.js, Angular, Typescript
 
