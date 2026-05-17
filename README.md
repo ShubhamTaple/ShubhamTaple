@@ -8,5 +8,5 @@ A passionate Learner.
 -  Web: HTML, CSS, React.js, Angular, Typescript
 
 ##  Reach Me
--  Email: shubham.s.taple@gmail.com
+-  Email: subbutaple@gmail.com, shubham.s.taple@gmail.com
 -  [LinkedIn](https://www.linkedin.com/in/shubham-taple-021b73320/)
